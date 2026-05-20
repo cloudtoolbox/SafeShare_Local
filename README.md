@@ -1,4 +1,8 @@
-# SafeShare Local
+<p align="center">
+  <img src="docs/design/SafeShareIcon-master-1024.png" alt="SafeShare Local logo" width="120">
+</p>
+
+<h1 align="center">SafeShare Local</h1>
 
 SafeShare Local is a macOS privacy redaction app for preparing PDFs and CSV files before they are shared outside a trusted environment. It runs locally, combines deterministic rules with a local Gemma model through Ollama, gives the user a review step, and exports redacted artifacts such as burn-in PDFs and masked CSV files.
 
