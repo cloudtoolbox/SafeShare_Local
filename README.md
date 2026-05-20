@@ -256,4 +256,4 @@ See [docs/safeshare/milestones.md](docs/safeshare/milestones.md) for milestone n
 
 ## License
 
-MIT-license.
+This project is licensed under the Apache License 2.0.
