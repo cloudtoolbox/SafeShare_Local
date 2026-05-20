@@ -256,4 +256,4 @@ See [docs/safeshare/milestones.md](docs/safeshare/milestones.md) for milestone n
 
 ## License
 
-Add the project license here before publishing the repository.
+MIT-license.
