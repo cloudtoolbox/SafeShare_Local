@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/design/SafeShareIcon-master-1024.png" alt="SafeShare Local logo" width="120">
+  <img src="images/safeshare_app_icon.png" alt="SafeShare Local logo" width="120">
 </p>
 
 <h1 align="center">SafeShare Local</h1>
