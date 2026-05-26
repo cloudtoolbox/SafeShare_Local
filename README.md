@@ -8,6 +8,8 @@ SafeShare Local is a macOS privacy redaction app for preparing PDFs and CSV file
 
 The project is built in Swift and SwiftUI for macOS 14+.
 
+https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/safe-share-local
+
 ## Why SafeShare Local
 
 Many real-world documents contain sensitive identifiers in messy places: medical PDFs, student/family records, social-service notes, CSV exports, provider signatures, scanned images, and free-text columns. SafeShare Local is designed for workflows where users need a practical local tool that can:
